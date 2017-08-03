@@ -1,0 +1,19 @@
+#userWeight {
+    width: 42%;
+    float: left;
+}
+
+#planets {
+    width: 42%;
+    float: left;
+}
+#calculateWeight {
+    width: 6%;
+    float: left;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
